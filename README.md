@@ -1,6 +1,6 @@
 # Calculator
 
-Project made based on the video by gustavo nietzki.
+Project made based on the video by Gustavo Nietzki.
 This is a basic project, and used basicaly html, css and js. 
 In the Js context: 
 -Used the DOM concept to manipulate what apears in the "screen" of the calculator. 
